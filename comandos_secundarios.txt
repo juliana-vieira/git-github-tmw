@@ -1,1 +1,5 @@
 arquivo com comandos secundarios de git
+
+comando 1
+comando 2
+comando 3
